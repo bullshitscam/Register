@@ -1,12 +1,11 @@
 {
   "subdomain": "example",
   "owner": {
-    "username": "your-github-username",
-    "email": "you@example.com"
+    "username": "bullshitscam",
+    "email": "bullshitscam@gmail.com" 
   },
   "record": {
     "type": "CNAME",
-    "value": "your-github-username.github.io"
+    "value": "bullshitscam.github.io"
   }
 } 
- // This is mostly for github i guess? im honestly a skid lmao
