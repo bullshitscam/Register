@@ -1,2 +1,3 @@
-# Register
-idk lil nkgga
+# Register thingy I suppose 
+I suppose this is where you get the subdomain? 
+retro-slop.com
