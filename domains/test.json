@@ -1,0 +1,11 @@
+{
+  "subdomain": "test",
+  "owner": {
+    "username": "bullshitscam",
+    "email": "bullshitscam@gmail.com"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "bullshitscam.github.io"
+  }
+}
